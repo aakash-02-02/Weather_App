@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aakash-02-02/Weather_App.git/static/css/main.d4a296fe.css",
+    "main.js": "/aakash-02-02/Weather_App.git/static/js/main.b9863740.js",
+    "index.html": "/aakash-02-02/Weather_App.git/index.html",
+    "main.d4a296fe.css.map": "/aakash-02-02/Weather_App.git/static/css/main.d4a296fe.css.map",
+    "main.b9863740.js.map": "/aakash-02-02/Weather_App.git/static/js/main.b9863740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4a296fe.css",
+    "static/js/main.b9863740.js"
+  ]
+}
